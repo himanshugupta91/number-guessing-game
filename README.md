@@ -259,57 +259,6 @@ Exiting Guessing Game.
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. **Commit your changes**
-   ```bash
-   git commit -m 'Add some amazing feature'
-   ```
-4. **Push to the branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-5. **Open a Pull Request**
-
-### Ideas for Contributions
-- Add difficulty level customization (custom attempt limits)
-- Implement persistent storage for high scores (file/database)
-- Add multiplayer mode
-- Create a GUI version
-- Add sound effects
-- Implement achievement system
-- Add different game modes (reverse guessing, time attack, etc.)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License - Copyright (c) 2024
-```
-
----
-
-## 👤 Author
-
-**Himanshu Gupta**
-
-- GitHub: [@himanshugupta91](https://github.com/himanshugupta91)
-- Project Link: [https://github.com/himanshugupta91/number-guessing-game](https://github.com/himanshugupta91/number-guessing-game)
-
----
-
-<div align="center">
-
 **⭐ Star this repository if you found it helpful!**
 
 Made with ❤️ as part of the [Roadmap.sh](https://roadmap.sh/) backend projects
